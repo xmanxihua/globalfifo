@@ -1,0 +1,1 @@
+savedcmd_/home/xihua/CLionProjects/globalfifo/globalfifo.mod := printf '%s\n'   globalfifo.o | awk '!x[$$0]++ { print("/home/xihua/CLionProjects/globalfifo/"$$0) }' > /home/xihua/CLionProjects/globalfifo/globalfifo.mod

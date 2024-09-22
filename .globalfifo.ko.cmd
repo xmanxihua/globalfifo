@@ -1,0 +1,1 @@
+savedcmd_/home/xihua/CLionProjects/globalfifo/globalfifo.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/xihua/CLionProjects/globalfifo/globalfifo.ko /home/xihua/CLionProjects/globalfifo/globalfifo.o /home/xihua/CLionProjects/globalfifo/globalfifo.mod.o
